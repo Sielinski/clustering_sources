@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Machine Learning
+*.pkl
+*.joblib
+*.h5
+*.model
+models/
+checkpoints/
+wandb/
+mlruns/
+
+# Data files (uncomment if you want to track data)
+# *.csv
+# *.json
+# *.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+output/
+results/
+plots/
+*.png
+*.jpg
+*.pdf
+
+# Temporary
+*.tmp
+temp/
+
+# Secrets
+config.ini
+.secrets
+credentials.json
