@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the probabilistic nature of Large Language Models (LLMs) by analyzing how Perplexity AI selects and cites sources when generating responses. Using unsupervised learning techniques, we investigate whether distinct clusters of sources emerge based on citation frequency patterns.
+This project explores the probabilistic nature of Large Language Models (LLMs) by analyzing how Perplexity AI selects and cites sources when generating responses. Using unsupervised learning techniques, this project investigates whether distinct clusters of sources emerge based on citation frequency patterns.
 
 ## Research Question
 
